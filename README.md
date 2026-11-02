@@ -26,14 +26,14 @@ It runs natively on Linux, with no network access and no telemetry.
 
 ## Install
 
-Download the latest version from the [Releases page](https://github.com/PluginsBTW/SpaceBtw-release/releases),
+Download the latest version from the [Releases page](https://github.com/rmnhofma/SpaceBtw-release/releases),
 or with these commands:
 
 ```bash
-curl -LO https://github.com/PluginsBTW/SpaceBtw-release/releases/download/v1.0.4/SpaceBtw-1.0.4-linux-x86_64.tar.gz
-curl -LO https://github.com/PluginsBTW/SpaceBtw-release/releases/download/v1.0.4/SpaceBtw-1.0.4-linux-x86_64.tar.gz.sha256
-sha256sum -c SpaceBtw-1.0.4-linux-x86_64.tar.gz.sha256 && tar xzf SpaceBtw-1.0.4-linux-x86_64.tar.gz
-cd SpaceBtw-1.0.4-linux-x86_64
+curl -LO https://github.com/rmnhofma/SpaceBtw-release/releases/download/v1.0.5/SpaceBtw-1.0.5-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/SpaceBtw-release/releases/download/v1.0.5/SpaceBtw-1.0.5-linux-x86_64.tar.gz.sha256
+sha256sum -c SpaceBtw-1.0.5-linux-x86_64.tar.gz.sha256 && tar xzf SpaceBtw-1.0.5-linux-x86_64.tar.gz
+cd SpaceBtw-1.0.5-linux-x86_64
 ```
 
 Install for your user:

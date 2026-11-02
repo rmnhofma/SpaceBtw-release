@@ -3,7 +3,7 @@
 **A sidechain spectral ducker for Linux:** it turns a track down only at the frequencies the
 sidechain signal is using right now.
 
-Version 1.0.4. To install it, see the [README](README.md).
+Version 1.0.5. To install it, see the [README](README.md).
 
 ## Getting started
 
