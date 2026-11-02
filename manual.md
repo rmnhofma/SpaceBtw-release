@@ -3,7 +3,7 @@
 **A sidechain spectral ducker for Linux:** it turns a track down only at the frequencies the
 sidechain signal is using right now.
 
-Version 1.0.5. To install it, see the [README](README.md).
+Version 1.0.6. To install it, see the [README](README.md).
 
 ## Getting started
 
@@ -44,7 +44,7 @@ SpaceBtw has a stereo main input and a stereo auxiliary input named **Sidechain*
 reset it. Every control is also a host parameter you can automate.
 
 The status line shows the sample rate and latency. The version is in the bottom-right corner, and
-clicking the logo opens this page.
+clicking the logo opens [the plugin's page](https://rmnhofma.github.io/plugins/spacebtw/).
 
 ## How to use it
 
