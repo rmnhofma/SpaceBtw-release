@@ -1,5 +1,8 @@
 # SpaceBtw manual
 
+> **Discontinued** since 7 Nov 2026: SpaceBtw gets no new releases. v1.0.6, the last one, stays
+> here to download and keeps working.
+
 **A sidechain spectral ducker for Linux:** it turns a track down only at the frequencies the
 sidechain signal is using right now.
 
